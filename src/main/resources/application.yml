@@ -1,4 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb+srv://atlas_user:atlas123@mycluster.p0ytpkn.mongodb.net/testconnect?retryWrites=true&w=majority
